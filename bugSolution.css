@@ -1,0 +1,9 @@
+/* bugSolution.css */
+
+#myElement {
+  width: calc(100vw - 20px);
+  background-color: lightblue;
+  padding: 10px;
+}
+
+/*Ensure that you are using consistent units (e.g., vw, px) within the calc expression*/
